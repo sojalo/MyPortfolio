@@ -1,2 +1,2 @@
 # MyPortfolio
-This is my portfolio about me, this is my first work.
+This is my first public work and my portfolio about me.
